@@ -2,7 +2,8 @@
 
 <h2> Paleta de Cores Utilizadas </h2>
 <ul>
-  <li>Botões: #D10409</li>
+  <li>Botões vermelhos: #D10409</li>
+  <li>Botões laranjas claro: #FF7700 </li>
   <li>Cabeçalho: #DD492A</li>
   <li>Degrade Título do Formulário: #E16632 com opacidade de 3 ou RGBA = (225,102,50,3)</li>
   <li>Letras escuras: #1F2D3D </li>
