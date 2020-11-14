@@ -1,6 +1,11 @@
 # Icones Utilizados Pela Equipe de IHM
 
-<h2> Paleta de Cores Utilizadas </h2>
+<h2> Tipo de Fonte </h2>
+<ul>
+  <li>Roboto</li>
+</ul>
+
+<h3> Paleta de Cores Utilizadas </h3>
 <ul>
   <li>Botões vermelhos: #D10409</li>
   <li>Botões laranjas claro: #FF7700 </li>
