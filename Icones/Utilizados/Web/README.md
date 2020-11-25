@@ -1,5 +1,9 @@
 # Icones Utilizados Pela Equipe de IHM - Parte Web
 
+<h1> Considerações sobre os ícones </h1>
+<p> &emsp; - As cores dos ícones com nome "Raster", são é a mesma do cabeçalho: #DD492A</p>
+<p> &emsp; - Com relação ao brasão, caso ajude, a imagem que enviei tem dimensão de W: 256 H: 256px, a dimensão usada na tela de login foi W: 144px H: 144px e a usada no cabeçalho foi W: 58px H: 58px.</p>
+
 <h2> Tipo de Fonte </h2>
 <ul>
   <li>Roboto</li>
